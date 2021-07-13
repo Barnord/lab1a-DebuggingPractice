@@ -1,0 +1,16 @@
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.csproj.AssemblyReference.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.AssemblyInfoInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.AssemblyInfo.cs
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\bin\Debug\net5.0\lab1aDebuggingPractice.exe
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\bin\Debug\net5.0\lab1aDebuggingPractice.deps.json
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\bin\Debug\net5.0\lab1aDebuggingPractice.runtimeconfig.json
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\bin\Debug\net5.0\lab1aDebuggingPractice.runtimeconfig.dev.json
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\bin\Debug\net5.0\lab1aDebuggingPractice.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\bin\Debug\net5.0\ref\lab1aDebuggingPractice.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\bin\Debug\net5.0\lab1aDebuggingPractice.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\ref\lab1aDebuggingPractice.dll
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.pdb
+C:\Users\gordn\Documents\projects\codefellows\401net\lab1aDebuggingPractice\lab1aDebuggingPractice\obj\Debug\net5.0\lab1aDebuggingPractice.genruntimeconfig.cache
